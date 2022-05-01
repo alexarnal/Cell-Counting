@@ -25,8 +25,8 @@ Cell-Counting
 │       │   counts.csv
 │
 └─── scripts
-|   |   requirements.txt
-|   |   projectDetails.csv
+│   │   requirements.txt
+│   │   projectDetails.csv
 │   │   Cell Export.js
 │   │   Region Export.js
 │   │   didYouExportEverything.py
