@@ -31,7 +31,7 @@ Cell-Counting
 │   │   Region Export.js
 │   │   didYouExportEverything.py
 │   │   prepareBrainRegions.py
-│   │   cellChoropleths.py
+│   │   cellCounts.py
 ```
 
 ## Usage
