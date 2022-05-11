@@ -37,7 +37,7 @@ function exportFileToSVG(dest) {
 }
 
 function getProjectDetail(folder, type) {
-    //alert(folder.slice(0,-30))
+    alert(folder.slice(0,-30))
     var testtextfile = File(folder.slice(0,-30)+"/scripts/projectDetails.csv"); // expects folder name to be "ai files" or any 8 character string
     testtextfile.encoding = 'UTF8'; // set to 'UTF8' or 'UTF-8'
     testtextfile.open("r");
